@@ -23,8 +23,6 @@
 
  Custom theme for Anemone3DS inspired by old CS:GO from 2017.
 
- Remix [here](https://youtu.be/fYK0_-jzrE4).
-
 ### Main preview
 
  ![Preview](./for_git/preview.png)
