@@ -19,7 +19,7 @@
     <br>
 </div>
 
-# CS:GO Synthwave (3DS Theme)
+# CS:GO Classic (3DS Theme)
 
  Custom theme for Anemone3DS inspired by old CS:GO from 2017.
 
