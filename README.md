@@ -2,7 +2,6 @@
     <br>
     <img src="./for_git/logo.png" alt="Logo" width=350>
     <br>
-    <br>
 </div>
 
 # CS:GO Classic (3DS Theme)
