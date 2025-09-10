@@ -1,9 +1,3 @@
-<div align="center">
-    <br>
-    <img src="./for_git/logo.png" alt="Logo" width=350>
-    <br>
-</div>
-
 # CS:GO Classic (3DS Theme)
 
  Custom theme for Anemone3DS inspired by old CS:GO from 2017.
