@@ -88,7 +88,7 @@ shorttitle=CS:GO Classic
 smallicon=theme_icons/icon_small.png
 
 [kame-editor]
-deploy=../CS:GO Classic.zip
+deploy=../CS_GO Classic.zip
 
 [textures]
 bottom.image=texture_assets/screen_bottom.png
